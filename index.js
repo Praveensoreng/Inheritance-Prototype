@@ -79,7 +79,7 @@ const obj4 = {
 
 const obj5 ={
     location : "Delhi",
-    __proto__ : obj1
+    __proto__ : obj4
 }
 const keys = Object.keys(obj5);
 console.log(keys);
